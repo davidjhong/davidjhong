@@ -4,6 +4,12 @@ Welcome to my GitHub!
 
 I'm currently a third-year Computer Science Student @ UCSD. My goal is to create impactful projects.
 
+### Currently Learning:
+- Basics of C++
+- DSA in C++
+- Best Practices of C++
+- Referring to https://www.learncpp.com/ and https://www.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996
+
 ### Things I code with
 <p>
   <img alt="C plus plus" src="https://img.shields.io/badge/-C++-5849BE?style=flat-square&logo=cplusplus&logoColor=white" />
