@@ -1,11 +1,11 @@
-## Hi there I'm [David](https://davidjhong.github.io/)👋
+## Hello I'm [David](https://davidjhong.github.io/)
 
 Welcome to my GitHub!
 
-I'm currently a fourth-year Computer Science Student @ UCSD. My goal is to create impactful projects.
+I'm currently a fourth-year Computer Science Student @ UCSD (B.S/M.S). My goal is to learn.
 
 ### Currently Learning:
-- Figuring out how to beat the market
+- Go; Docker; Cloud; KV
 
 ### Things I code with
 <p>
