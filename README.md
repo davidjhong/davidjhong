@@ -2,10 +2,10 @@
 
 Welcome to my GitHub!
 
-I'm currently a fourth-year Computer Science Student @ UCSD (B.S/M.S). My goal is to learn.
+I'm currently a first-year M.S Computer Science Student @ UCSD. My goal is to learn.
 
 ### Currently Learning:
-- Go; Docker; Cloud; KV
+- Web fundamentals
 
 ### Things I code with
 <p>
